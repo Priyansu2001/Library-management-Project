@@ -5,4 +5,5 @@ Technologies Used:
 Frontend: Python (Tkinter for GUI)
 Backend: Python
 Database: MySQL
+
 This project is suitable for small to medium-sized libraries and can be expanded with more features like multi-user support, cloud integration, and advanced reporting tools.
